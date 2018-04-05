@@ -42,8 +42,8 @@
           <file leaf-file-name="01.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/theory/es6/01.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="427">
-                  <caret line="145" column="67" lean-forward="false" selection-start-line="145" selection-start-column="67" selection-end-line="145" selection-end-column="67" />
+                <state relative-caret-position="393">
+                  <caret line="143" column="3" lean-forward="true" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -243,12 +243,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522915180778</updated>
-      <workItem from="1522915181963" duration="5495000" />
+      <workItem from="1522915181963" duration="5539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5495000" />
+    <option name="totallyTimeSpent" value="5539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -349,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theory/es6/01.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="145" column="67" lean-forward="false" selection-start-line="145" selection-start-column="67" selection-end-line="145" selection-end-column="67" />
+        <state relative-caret-position="393">
+          <caret line="143" column="3" lean-forward="true" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
           <folding />
         </state>
       </provider>
