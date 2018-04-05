@@ -12,3 +12,11 @@ front-end interview theory and tasks
         <a href="theory/MAIN.md">Theory</a>
     </li>
 </ul>
+
+<h2>CSS questions</h2>
+
+<ul>
+    <li>
+        <a href="css/MAIN.md">CSS</a>
+    </li>
+</ul>

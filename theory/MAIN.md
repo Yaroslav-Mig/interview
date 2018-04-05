@@ -10,4 +10,7 @@
     <li>
         <a href="this/01.md">This</a>
     </li>
+    <li>
+        <a href="es6/01.md">EcmaScript 6</a>
+    </li>
 </ul>
